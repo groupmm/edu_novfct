@@ -1,0 +1,13 @@
+@article{MuellerC24_EduNovFct_TISMIR,
+  author = {Meinard M{\"u}ller and Ching-Yu Chiu},
+  title = {A Basic Tutorial on Novelty and Activation Functions for Music Signal Processing},
+  journal = {Transaction of the International Society for Music Information Retrieval ({TISMIR})},
+  volume = {},
+  number = {},
+  pages = {},
+  year = {2024},  
+  doi = {},
+  url-details = {},
+  url-pdf   = {},
+  url-demo = {}
+}
