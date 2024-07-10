@@ -46,7 +46,8 @@ We are happy for suggestions and contributions.  We would be grateful for either
 
 ## License
 
-The code for this repository is published under an [MIT license](LICENSE).
+The code for this repository is published under an [MIT license](LICENSE). This does not apply to the data files:
+* Audio files are taken from the [FMP notebooks](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html).
 
 ## Acknowledgements
 
