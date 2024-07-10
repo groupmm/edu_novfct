@@ -13,7 +13,7 @@ Transaction of the International Society for Music Information Retrieval (TISMIR
 ## Installation Guide
 
 ### Setting Up a Conda Environment
-You can establish a `conda` environment by employing the ``environment.yml`` file. This approach includes necessary packages like `jupyter` to facilitate running demo notebooks.
+You can establish a `conda` environment by employing the [environment.yml](environment.yml) file. This approach includes necessary packages like `jupyter` to facilitate running demo notebooks.
 
 1. Ensure you have [Conda](https://conda.io) **installed** on your computer, for example, by using [Miniconda](https://docs.anaconda.com/miniconda).
 2. Then, **run** the following command:
