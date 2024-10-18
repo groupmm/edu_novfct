@@ -10,6 +10,7 @@ Meinard Müller and Ching-Yu Chiu.
 <b>A Basic Tutorial on Novelty and Activation Functions for Music Signal Processing.</b>
 Transaction of the International Society for Music Information Retrieval (TISMIR), 7(1), 179–194, 2024.
 
+```bibtex
 @article{MüllerC24_EduNovFct_TISMIR,
   author  = {Meinard M{\"u}ller and Ching-Yu Chiu},
   title   = {{A} Basic Tutorial on Novelty and Activation Functions for Music Signal Processing},
@@ -20,6 +21,7 @@ Transaction of the International Society for Music Information Retrieval (TISMIR
   pages   = {179--194},
   doi     = {10.5334/tismir.202}
 }
+```
 
 ## Installation Guide
 
