@@ -8,7 +8,18 @@ This repository contains [Jupyter Notebooks](https://jupyter.org) that include [
 
 Meinard Müller and Ching-Yu Chiu.
 <b>A Basic Tutorial on Novelty and Activation Functions for Music Signal Processing.</b>
-Transaction of the International Society for Music Information Retrieval (TISMIR), ??: ??–??, 2024.
+Transaction of the International Society for Music Information Retrieval (TISMIR), 7(1), 179–194, 2024.
+
+@article{MüllerC24_EduNovFct_TISMIR,
+  author  = {Meinard M{\"u}ller and Ching-Yu Chiu},
+  title   = {{A} Basic Tutorial on Novelty and Activation Functions for Music Signal Processing},
+  journal = {Transactions of the International Society for Music Information Retrieval ({TISMIR})},
+  year    = {2024},
+  volume  = {7},
+  number  = {1},
+  pages   = {179--194},
+  doi     = {10.5334/tismir.202}
+}
 
 ## Installation Guide
 
